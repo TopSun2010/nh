@@ -1,7 +1,7 @@
 {
 	"api-bind" : "127.0.0.1:4048",
 
-	"url" : "stratum+tcp://scryptjanenf16.jp.nicehash.com:3348",
+	"url" : "stratum+tcp://scryptjanenf16.usa.nicehash.com:3348",
 	"user" : "35XdjMAcc8TfdTJREhodUkt5p4t5bpj24A",
 	"pass" : "x",
 	"algo" : "scrypt-jane:16",
