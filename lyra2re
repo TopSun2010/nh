@@ -1,0 +1,17 @@
+	{
+	"api-bind" : "127.0.0.1:4048",
+
+	"url" : "stratum+tcp://lyra2re.hk.nicehash.com:3342",
+        "user" : "35XdjMAcc8TfdTJREhodUkt5p4t5bpj24A",
+        "pass" : "x",
+        "algo" : "lyra2re",
+
+        "_comment1" : "number of CPU cores",
+        "threads" : 4,
+        "cpu-priority" : 2,
+
+	"benchmark" : false,
+	"debug" : false,
+	"protocol": false,
+	"quiet" : false
+}
